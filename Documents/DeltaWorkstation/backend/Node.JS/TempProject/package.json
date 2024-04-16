@@ -1,0 +1,21 @@
+{
+  "name": "temporary",
+  "version": "1.0.0",
+  "description": "first version",
+  "main": "index.sj",
+  "scripts": {
+    "test": "kuch bhi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "soon"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sahil",
+  "license": "ISC",
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
